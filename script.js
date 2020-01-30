@@ -350,6 +350,12 @@ function staticLoadPlaces() {
                 lng:  -75.572223,
             }
         },
+        {name: 'Otros 1', location: { lat: 6.199696, lng: -75.572234 }},
+        {name: 'Otros 2', location: { lat: 6.199226, lng: -75.572029 }},
+        {name: 'Otros 3', location: { lat: 6.199940, lng: -75.571771 }},
+        {name: 'Otros 4', location: { lat: 6.200016, lng: -75.572042 }},
+        {name: 'Otros 5', location: { lat: 6.199611, lng: -75.572275 }},
+        {name: 'Otros 6', location: { lat: 6.199182, lng: -75.572214 }},
     ];
 }
 
