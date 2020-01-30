@@ -330,9 +330,9 @@ function staticLoadPlaces() {
         },
 
         
-        {name: 'Otros 1', location: { lat: 6.200132, lng: -75.571971 }},
-        {name: 'Otros 2', location: { lat: 6.200073, lng: -75.571996 }},
-        {name: 'Otros 3', location: { lat: 6.199992, lng: -75.572027 }},
+        {name: 'Otros 1', location: { lat: 6.199943, lng: -75.571936 }},
+        {name: 'Otros 2', location: { lat: 6.200028, lng: -75.571893 }},
+        {name: 'Otros 3', location: { lat: 6.200128, lng: -75.571853 }},
         {name: 'Otros 4', location: { lat: 6.200578, lng: -75.571817 }},
         {name: 'Otros 5', location: { lat: 6.199491, lng: -75.572206 }},
         {name: 'Otros 6', location: { lat: 6.199256, lng: -75.572355 }},
