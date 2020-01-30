@@ -328,6 +328,28 @@ function staticLoadPlaces() {
                 lng:  -75.573823,
             }
         },
+
+        {
+            name: 'Milla de Oro 1',
+            location: {
+                lat: 6.199558,
+                lng:  -75.572188,
+            }
+        },
+        {
+            name: 'Milla de Oro 2',
+            location: {
+                lat: 6.199524,
+                lng:  -75.572197,
+            }
+        },
+        {
+            name: 'Milla de Oro 3',
+            location: {
+                lat: 6.199490,
+                lng:  -75.572212,
+            }
+        },
     ];
 }
 
