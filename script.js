@@ -322,7 +322,7 @@ function staticLoadPlaces() {
             }
         },
         {
-            name: 'Torre La Vega',
+            name: 'Gran Casino',
             location: {
                 lat: 6.200126,
                 lng:  -75.573823,
@@ -375,6 +375,7 @@ function renderPlaces(places) {
         icon.setAttribute('gps-entity-place', `latitude: ${latitude}; longitude: ${longitude}`);
         icon.setAttribute('name', place.name);
         icon.setAttribute('src', './assets/logo-bluspot.png'); 
+        icon.setAttribute('look-at', "[gps-camera]");
 
         // for debug purposes, just show in a bigger scale, otherwise I have to personally go on places...
         icon.setAttribute('scale', '20, 20');
