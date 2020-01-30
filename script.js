@@ -329,33 +329,13 @@ function staticLoadPlaces() {
             }
         },
 
-        {
-            name: 'Milla de Oro 1',
-            location: {
-                lat: 6.199558,
-                lng:  -75.572188,
-            }
-        },
-        {
-            name: 'Milla de Oro 2',
-            location: {
-                lat: 6.199517, 
-                lng: -75.572200,
-            }
-        },
-        {
-            name: 'Milla de Oro 3',
-            location: {
-                lat: 6.199460, 
-                lng:  -75.572223,
-            }
-        },
-        {name: 'Otros 1', location: { lat: 6.199696, lng: -75.572234 }},
-        {name: 'Otros 2', location: { lat: 6.199226, lng: -75.572029 }},
-        {name: 'Otros 3', location: { lat: 6.199940, lng: -75.571771 }},
-        {name: 'Otros 4', location: { lat: 6.200016, lng: -75.572042 }},
-        {name: 'Otros 5', location: { lat: 6.199611, lng: -75.572275 }},
-        {name: 'Otros 6', location: { lat: 6.199182, lng: -75.572214 }},
+        
+        {name: 'Otros 1', location: { lat: 6.200132, lng: -75.571971 }},
+        {name: 'Otros 2', location: { lat: 6.200073, lng: -75.571996 }},
+        {name: 'Otros 3', location: { lat: 6.199992, lng: -75.572027 }},
+        {name: 'Otros 4', location: { lat: 6.200578, lng: -75.571817 }},
+        {name: 'Otros 5', location: { lat: 6.199491, lng: -75.572206 }},
+        {name: 'Otros 6', location: { lat: 6.199256, lng: -75.572355 }},
     ];
 }
 
