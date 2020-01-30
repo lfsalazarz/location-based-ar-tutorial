@@ -314,6 +314,20 @@ function staticLoadPlaces() {
                 lng:  -75.572329,
             }
         },
+        {
+            name: 'Torre La Vega',
+            location: {
+                lat: 6.200868, 
+                lng:  -75.573272,
+            }
+        },
+        {
+            name: 'Torre La Vega',
+            location: {
+                lat: 6.200126,
+                lng:  -75.573823,
+            }
+        },
     ];
 }
 
