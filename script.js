@@ -339,8 +339,8 @@ function staticLoadPlaces() {
         {
             name: 'Milla de Oro 2',
             location: {
-                lat: 6.199515,
-                lng:   -75.572198,
+                lat: 6.199517, 
+                lng: -75.572200,
             }
         },
         {
