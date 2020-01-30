@@ -266,24 +266,52 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
-            name: 'Place1',
+            name: 'Santafe',
             location: {
-                lat: 6.235899925231934,
-                lng: -75.57510375976562,
+                lat: 6.196505, 
+                lng: -75.574063,
             }
         },
         {
-            name: 'Place2',
+            name: 'Panamericana',
             location: {
-                lat: 6.200326,
-                lng: -75.573206,
+                lat: 6.198103, 
+                lng: -75.573493,
             }
         },
         {
-            name: 'Place3',
+            name: 'Milla de Oro',
             location: {
-                lat: 6.199532,
-                lng: -75.572384,
+                lat: 6.199828, 
+                lng: -75.572410,
+            }
+        },
+        {
+            name: 'Ktronix',
+            location: {
+                lat: 6.201055, 
+                lng: -75.571980,
+            }
+        },
+        {
+            name: 'Hotel Estelar',
+            location: {
+                lat: 6.201402, 
+                lng: -75.573249,
+            }
+        },
+        {
+            name: 'Oviedo',
+            location: {
+                lat: 6.199330,
+                lng:  -75.574355,
+            }
+        },
+        {
+            name: 'Colpensiones',
+            location: {
+                lat: 6.202560, 
+                lng:  -75.572329,
             }
         },
     ];
